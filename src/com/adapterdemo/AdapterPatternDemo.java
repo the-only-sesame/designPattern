@@ -1,4 +1,4 @@
-package com.adapter;
+package com.adapterdemo;
 
 public class AdapterPatternDemo {
 	 public static void main(String[] args) {

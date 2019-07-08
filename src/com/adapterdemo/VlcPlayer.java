@@ -1,4 +1,4 @@
-package com.adapter;
+package com.adapterdemo;
 //创建实体类
 public class VlcPlayer implements AdvancedMediaPlayer {
 

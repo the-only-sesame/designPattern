@@ -1,4 +1,4 @@
-package com.adapter;
+package com.adapterdemo;
 
 public class Mp4Player implements AdvancedMediaPlayer{
 

@@ -1,4 +1,4 @@
-package com.adapter;
+package com.adapterdemo;
 
 public class AudioPlayer implements MediaPlayer {
 	   MediaAdapter mediaAdapter; 
